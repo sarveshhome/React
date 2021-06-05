@@ -41,4 +41,11 @@ my-app/
 
 
 
+--------------------
+# Useful URL
+
+[LifeCycle Diagram](https://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/)
+
+[The Component Lifecycle](https://reactjs.org/docs/react-component.html)
+
 
