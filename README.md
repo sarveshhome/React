@@ -39,8 +39,9 @@ my-app/
 
 [Parent to Child component](https://github.com/sarveshhome/React)
 
+[child to parent componet] ()
 
-
+[Event bus] ()
 --------------------
 # Useful URL
 
